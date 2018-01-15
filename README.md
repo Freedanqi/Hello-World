@@ -1,2 +1,3 @@
 # Hello-World
-It's maine.
+It's mine.
+I'll keep refining it.
