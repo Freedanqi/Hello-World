@@ -9,7 +9,7 @@ public class Car {
 
    }
 }
-class  OCar {
+abstract class OCar {
 	
    private String tirenum;
    private String color;
@@ -21,9 +21,7 @@ class  OCar {
       this.weight=weight;
    }
  
-   public void Run(){
-      System.out.println("car!");
-   }
+   public abstract void Run(int a,int i);
 }
    
 
